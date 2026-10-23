@@ -1,0 +1,32 @@
+{
+  "tests": 4,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "BubbleSortTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "UnSoloElemento",
+          "file": "C:\/Users\/Fernando\/Desktop\/2026b\/isii\/lab4\/bubble_sort_test.cpp",
+          "line": 5
+        },
+        {
+          "name": "ArregloOrdenado",
+          "file": "C:\/Users\/Fernando\/Desktop\/2026b\/isii\/lab4\/bubble_sort_test.cpp",
+          "line": 13
+        },
+        {
+          "name": "ArregloDesordenado",
+          "file": "C:\/Users\/Fernando\/Desktop\/2026b\/isii\/lab4\/bubble_sort_test.cpp",
+          "line": 22
+        },
+        {
+          "name": "VariosElementosOrdenados",
+          "file": "C:\/Users\/Fernando\/Desktop\/2026b\/isii\/lab4\/bubble_sort_test.cpp",
+          "line": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+        -:    0:Source:C:/Users/Fernando/Desktop/2026b/isii/lab4/bubble_sort.cpp
+        -:    0:Graph:CMakeFiles/bubble_sort_tests.dir/bubble_sort.cpp.gcno
+        -:    0:Data:CMakeFiles/bubble_sort_tests.dir/bubble_sort.cpp.gcda
+        -:    0:Runs:5
+        -:    1:
+        -:    2:#include "bubble_sort.h"
+        -:    3:
+        4:    4:void bubbleSort(int vet[], int tamanho) {
+        -:    5:    int aux;
+        -:    6:
+        8:    7:    for (int i = tamanho - 1; i >= 1; i--) {
+        9:    8:        for (int j = 0; j <= i - 1; j++) {
+        5:    9:            if (vet[j] > vet[j + 1]) {
+        1:   10:                aux = vet[j];
+        1:   11:                vet[j] = vet[j + 1];
+        1:   12:                vet[j + 1] = aux;
+        -:   13:            }
+        -:   14:        }
+        -:   15:    }
+        4:   16:}

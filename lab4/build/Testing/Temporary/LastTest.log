@@ -1,0 +1,111 @@
+Start testing: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+----------------------------------------------------------
+1/4 Testing: BubbleSortTest.UnSoloElemento
+1/4 Test: BubbleSortTest.UnSoloElemento
+Command: "C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests.exe" "--gtest_filter=BubbleSortTest.UnSoloElemento" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Fernando/Desktop/2026b/isii/lab4/build
+"BubbleSortTest.UnSoloElemento" start time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+Output:
+----------------------------------------------------------
+Running main() from D:/W/B/src/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BubbleSortTest.UnSoloElemento
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BubbleSortTest
+[ RUN      ] BubbleSortTest.UnSoloElemento
+[       OK ] BubbleSortTest.UnSoloElemento (0 ms)
+[----------] 1 test from BubbleSortTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"BubbleSortTest.UnSoloElemento" end time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+"BubbleSortTest.UnSoloElemento" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: BubbleSortTest.ArregloOrdenado
+2/4 Test: BubbleSortTest.ArregloOrdenado
+Command: "C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests.exe" "--gtest_filter=BubbleSortTest.ArregloOrdenado" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Fernando/Desktop/2026b/isii/lab4/build
+"BubbleSortTest.ArregloOrdenado" start time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+Output:
+----------------------------------------------------------
+Running main() from D:/W/B/src/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BubbleSortTest.ArregloOrdenado
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BubbleSortTest
+[ RUN      ] BubbleSortTest.ArregloOrdenado
+[       OK ] BubbleSortTest.ArregloOrdenado (0 ms)
+[----------] 1 test from BubbleSortTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BubbleSortTest.ArregloOrdenado" end time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+"BubbleSortTest.ArregloOrdenado" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: BubbleSortTest.ArregloDesordenado
+3/4 Test: BubbleSortTest.ArregloDesordenado
+Command: "C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests.exe" "--gtest_filter=BubbleSortTest.ArregloDesordenado" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Fernando/Desktop/2026b/isii/lab4/build
+"BubbleSortTest.ArregloDesordenado" start time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+Output:
+----------------------------------------------------------
+Running main() from D:/W/B/src/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BubbleSortTest.ArregloDesordenado
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BubbleSortTest
+[ RUN      ] BubbleSortTest.ArregloDesordenado
+[       OK ] BubbleSortTest.ArregloDesordenado (0 ms)
+[----------] 1 test from BubbleSortTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BubbleSortTest.ArregloDesordenado" end time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+"BubbleSortTest.ArregloDesordenado" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: BubbleSortTest.VariosElementosOrdenados
+4/4 Test: BubbleSortTest.VariosElementosOrdenados
+Command: "C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests.exe" "--gtest_filter=BubbleSortTest.VariosElementosOrdenados" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Fernando/Desktop/2026b/isii/lab4/build
+"BubbleSortTest.VariosElementosOrdenados" start time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+Output:
+----------------------------------------------------------
+Running main() from D:/W/B/src/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BubbleSortTest.VariosElementosOrdenados
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BubbleSortTest
+[ RUN      ] BubbleSortTest.VariosElementosOrdenados
+[       OK ] BubbleSortTest.VariosElementosOrdenados (0 ms)
+[----------] 1 test from BubbleSortTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BubbleSortTest.VariosElementosOrdenados" end time: Oct 23 00:04 Hora est. Pacífico, Sudamérica
+"BubbleSortTest.VariosElementosOrdenados" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 23 00:04 Hora est. Pacífico, Sudamérica

@@ -1,0 +1,5 @@
+BubbleSortTest.UnSoloElemento 3 0.0288046
+BubbleSortTest.ArregloOrdenado 3 0.00465393
+BubbleSortTest.ArregloDesordenado 3 0.00454463
+BubbleSortTest.VariosElementosOrdenados 3 0.00457153
+---

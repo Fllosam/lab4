@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests_e3b0c442_tests.cmake")
+  include("C:/Users/Fernando/Desktop/2026b/isii/lab4/build/bubble_sort_tests_e3b0c442_tests.cmake")
+else()
+  add_test(bubble_sort_tests_NOT_BUILT bubble_sort_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,4 @@
+C:/Users/Fernando/Desktop/2026b/isii/lab4/build/CMakeFiles/bubble_sort_tests.dir
+C:/Users/Fernando/Desktop/2026b/isii/lab4/build/CMakeFiles/test.dir
+C:/Users/Fernando/Desktop/2026b/isii/lab4/build/CMakeFiles/edit_cache.dir
+C:/Users/Fernando/Desktop/2026b/isii/lab4/build/CMakeFiles/rebuild_cache.dir
